@@ -4,9 +4,9 @@
    sodipodi:docname="sn_logo_compartir.svg"
    xml:space="preserve"
    enable-background="new 0 0 487.113 126.647"
-   viewBox="0 0 599.99998 600"
-   height="600"
-   width="600"
+   viewBox="0 0 999.99997 1000"
+   height="1000"
+   width="1000"
    y="0px"
    x="0px"
    id="Capa_1"
@@ -29,8 +29,8 @@
    inkscape:window-maximized="1"
    inkscape:window-y="0"
    inkscape:window-x="0"
-   inkscape:cy="182.00749"
-   inkscape:cx="759.41058"
+   inkscape:cy="182.0075"
+   inkscape:cx="759.41059"
    inkscape:zoom="0.55766934"
    showguides="false"
    showgrid="false"
@@ -48,10 +48,10 @@
    inkscape:pagecheckerboard="0" />
 
 <rect
-   style="fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:11.7303;paint-order:fill markers stroke;stop-color:#000000"
+   style="fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:19.5505;paint-order:fill markers stroke;stop-color:#000000"
    id="rect41"
-   width="600"
-   height="600"
+   width="1000"
+   height="1000"
    x="0"
    y="0"
    inkscape:export-filename="sn_logo_compartir.png"
@@ -101,7 +101,7 @@
 	
 </g>
 <g
-   transform="matrix(1.2944502,0,0,1.2944502,26.587177,10.648388)"
+   transform="matrix(2.157417,0,0,2.157417,44.311962,17.747313)"
    id="g92"
    style="stroke:#ffffff"
    inkscape:export-filename="sn_logo.png"
