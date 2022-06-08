@@ -1,0 +1,44 @@
+---
+title: "Ensayo Poético: El deseo y las sublevaciones"
+
+---
+
+[[ page_title_add('Ensayo Poético: El deseo y las sublevaciones') ]]
+[[ menu_pages_set('#p:ensayos', 'actual') ]]
+
+<div class="info">
+
+<br>
+<div class="center">
+
+# El deseo y las sublevaciones
+
+</div>
+
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-erotismo') ]]
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-erotismo-1', 'sub-1') ]]
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-erotismo-2', 'sub-1') ]]
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-erotismo-3', 'sub-1') ]]
+
+</div>
+
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-gritos') ]]
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-sangre') ]]
+
+</div>
+
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-territorios') ]]
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-territorios-1', 'sub-1') ]]
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-territorios-2', 'sub-1') ]]
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-territorios-3', 'sub-1') ]]
+
+</div>
+
+
+</div>

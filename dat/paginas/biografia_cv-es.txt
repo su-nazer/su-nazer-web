@@ -1,0 +1,86 @@
+---
+title: Curriculum Vitae
+
+---
+
+[[ page_title_add('Curriculum Vitae') ]]
+[[ menu_pages_set('#p:biografia', 'actual') ]]
+
+<div class="info">
+
+<div class="columns">
+
+<div class="list_cv flex_col fc_1d3 left">
+
+<br>
+
++ **Susana Beatriz Nazer**
++ <small>DNI</small>
+  <br> 16.415.782
++ <small>NACIONALIDAD</small>
+  <br> Argentina
++ <small>FECHA DE NACIMIENTO</small>
+  <br> 03/04/64
++ <small>LUGAR DE NACIMIENTO</small>
+  <br> Junín (Bs. As.)
++ <small>DOMICILIO</small>
+  <br> Padre Ghio 1157.
+  <br> Junín (CP6000)
+
+[<< Biografía](#p:biografia)
+
+</div>
+
+<div class="list_cv flex_col fc_2d3 no_padding_top_first_h2">
+
+## TÍTULOS
+
+Registro: 658.943 / 415782
+
++ Profesora Superior en Artes Visuales con orientación en Escultura/Pintura. Escuela de Arte "Xul Solar". Junín. Dirección G. de C. y E.
++ Pos titulación de Especialización Superior en Dibujo. Escuela de Arte "Xul Solar". Dirección G. de C. y E.
++ Profesora de Teatro. Escuela de Teatro "Gilberto Mesa". Dirección G. de C. y E.
+<br>
++ Capacitación y partcipación del Taller de Joyería Contemporánea dictado por Hebe Argentieri desde el 2018.
+<br>
++ Capacitación en arte textil con Silvina Romero. 2020-2021
+
+## SISTEMA EDUCATIVO PROVINCIAL
+
+Profesora de Artes en los distintos niveles de la educación: desde 1990 a 2017.
+
+## ANTECEDENTES DE PRODUCCIÓN ARTÍSTICA
+
+Actuación. Dramaturgia:
+
++ En el Teatro Regional Itinerante: presentaciones en Pergamino, Rojas, Salto, Junín, Chacabuco, Lincoln.
++ En la obra “Humo en la Cajita Negra” dirección y dramaturgia Romina Paesani: con presentaciones en el Teatro Municipal "La Ranchería" de
++ Junín y Festival Provincial Regional de Teatro.
++ Participante de Nómade, grupo de acción teatral en espacios públicos.
++ Dirección y puesta en escena de los espectáculos de Narración oral: Contamos secretos, Cuentos encadenados, Dos por cuatro cuentos y Entretejiendo cuentos presentados en distintos escenarios de la ciudad, la región y CABA.
++ Capacitación y producción en micro ficción radial. 2015 - 2016.
++ Presentación artística del libro "Rosa del desierto" de Claudia Quiroga, en Estación de arte 847. 2019.
+
+Presentación de muestras de Arte visual contemporáneo en el Museo de arte Municipal como parte del Grupo Ecolectivo: Engrippados, homenaje a Victor Grippo y Biolencia, preocupaciones preguntas y discurrires sobre el ambiente y la sociedad en cruce con las prácticas del agro.
+
+Como parte del colectivo Espacio de Arte Colaborativo Desolvidándonos: acciones artísticas visuales e interferencias poéticas. Realización de libros de poesía visual. 2016. 2017. 2018.
+
+## TEXTIL Y ARTE PORTABLE
+
+*2021*
+
++ Proyecto Global Altar Mujeres Siglo XXI. Medialab. Instalación participativa.
++ Seleccionada en el III Bienal Latinoamericana de Joyería Contemporánea "Abran Cancha". Pectoral textil.
++ Seleccionada con una obra de Arte Portable para el Salón de Joyería Textil 2021 convocada por el Centro Argentno de Arte Textil.
++ Participación en la muestra de Exposiciones Simultáneas de la III Bienal de Joyería Contemporánea: Discurrir(es) Inadvertido(s) con obras de Arte Textil en cruce con el Metal por fundición, plegado, soldado, calado, etc.
++ 2° premio en el XVIII Salón de Arte Textil, del Museo de Arte Popular José Hernández. Arte textil de mediano formato.
+
+*2020*
+
++ Seleccionada para la muestra del Centro Argentno Arte Textil: Secretos de almohada.
+
+</div>
+
+</div>
+
+</div>

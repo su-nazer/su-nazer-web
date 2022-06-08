@@ -1,0 +1,56 @@
+---
+
+# General / Main
+
+title: Su Nazer
+
+subtitle:
+  es: Prácticas artísticas . Textil . Joyería contemporánea
+
+copyright:
+  es: © 2022 Su Nazer . Prácticas artísticas · Textil · Joyería contemporánea . Argentina
+
+meta_description: Su Nazer . Prácticas artísticas · Textil · Joyería contemporánea . Argentina
+url: 'https://sunazer.com.ar'
+logo_share: './img/sn_logo_compartir.png'
+logo_normal: ./img/sn_logo_blanco.svg
+logo_small: ./img/sn_logo_blanco.svg
+
+
+# Contacto / Contact
+geo:
+  city: Junín
+  country: Argentina
+  icon: ./img/icono-geo.svg
+
+email_g:
+  account: mailto:sunazer7@gmail.com
+  icon: ./img/icono-email.svg
+
+instagram:
+  name: '@su.nazer'
+  url: https://instagram.com/su.nazer
+  icon: ./img/icono-instagram.svg
+
+# Idioma / Language
+lang_change: false
+lang_default: es
+lang_available: { es: Español }
+
+
+# Descargas / Downloads
+download:
+  cv_pdf: ./download/cv_su_nazer.pdf
+
+# Rutas / Paths
+path:
+  paginas: ./dat/paginas/
+  ensayos: ./dat/ensayos/
+
+# Galeria / Gallery
+gallery:
+  position_sep: ' / '
+  mini_max: 100
+
+# Páginas / Pages
+initial_page: 'p:portada'

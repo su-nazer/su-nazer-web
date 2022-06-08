@@ -1,0 +1,50 @@
+---
+title: Contacto
+---
+
+[[ page_title_add('Contacto') ]]
+
+[[= html_slide([
+    ['./img/paginas/contacto/_1.jpg', 5],
+    ['./img/paginas/contacto/_2.jpg', 5],
+    ['./img/paginas/contacto/_3.jpg', 5],
+    ['./img/paginas/contacto/_4.jpg', 5],
+    ['./img/paginas/contacto/_5.jpg', 5],
+    ['./img/paginas/contacto/_6.jpg', 5],
+    ['./img/paginas/contacto/_7.jpg', 5],
+    ['./img/paginas/contacto/_8.jpg', 5],
+    ['./img/paginas/contacto/_9.jpg', 5],
+    ])
+]]
+
+<div class="info">
+
+<div class="columns">
+
+
+<div class="links flex_col fc_1d2 mobile left">
+
+## CRÉDITOS - FOTOS
+
++ [Alba Piazza](https://www.instagram.com/instalbalux/),
++ [Lia Palmieri](https://www.instagram.com/liapal87/),
++ [Liz Robledo](https://www.facebook.com/emelizzz),
++ [Emmanuel Borao](https://www.instagram.com/emmanuelborao/),
++ [Marcos Arévalo](https://www.instagram.com/marco_estudio_foto/).
+
+</div>
+
+
+<div class="text flex_col fc_1d2 list_item left">
+
+<br>
+
++  [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
++ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
+
+</div>
+
+
+</div>
+
+</div>
