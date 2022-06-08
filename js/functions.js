@@ -458,12 +458,9 @@ function html_slide( images ) {
           ac = 'actual';
 
     const show_image = () => {
-	console.log(images[i][1], i, 'espera');
-
 	clearInterval(interval)
 	interval = setInterval( show_image, images[i][1] * 1000 );
 	setTimeout( () => {
-	    console.log(i,'asignacion')
             image.attr( 'src', images[i][0] );
 	    if ( interval ) {
 		i += 1;
@@ -475,7 +472,6 @@ function html_slide( images ) {
     const active = () => {
 	slide = $( `#${dat.id}` );
 	image = slide.find( '.image img.front' ).eq( 0 );
-	console.log(i, 'inicio')
 	interval = setInterval( show_image, images[i][1] * 1000 );
 	menu = slide.find( 'ul' ).eq( 0 );
 	for ( j in _.range( 0, images.length ) ) {
