@@ -15,17 +15,10 @@ title: Curriculum Vitae
 <br>
 
 + **Susana Beatriz Nazer**
-+ <small>DNI</small>
-  <br> 16.415.782
 + <small>NACIONALIDAD</small>
   <br> Argentina
-+ <small>FECHA DE NACIMIENTO</small>
-  <br> 03/04/64
 + <small>LUGAR DE NACIMIENTO</small>
   <br> Junín (Bs. As.)
-+ <small>DOMICILIO</small>
-  <br> Padre Ghio 1157.
-  <br> Junín (CP6000)
 
 [<< Biografía](#p:biografia)
 
@@ -34,8 +27,6 @@ title: Curriculum Vitae
 <div class="list_cv flex_col fc_2d3 no_padding_top_first_h2">
 
 ## TÍTULOS
-
-Registro: 658.943 / 415782
 
 + Profesora Superior en Artes Visuales con orientación en Escultura/Pintura. Escuela de Arte "Xul Solar". Junín. Dirección G. de C. y E.
 + Pos titulación de Especialización Superior en Dibujo. Escuela de Arte "Xul Solar". Dirección G. de C. y E.
