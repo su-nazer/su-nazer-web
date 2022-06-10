@@ -24,7 +24,7 @@ geo:
   icon: ./img/icono-geo.svg
 
 email_g:
-  account: mailto:sunazer7@gmail.com
+  account: sunazer7@gmail.com
   icon: ./img/icono-email.svg
 
 instagram:
@@ -54,3 +54,11 @@ gallery:
 
 # Páginas / Pages
 initial_page: 'p:portada'
+
+
+creditos:
+  alba_piazza: [Alba Piazza, 'https://www.instagram.com/instalbalux/']
+  lia_palmieri: [Lia Palmieri, 'https://www.instagram.com/liapal87/']
+  liz_robledo: [Liz Robledo, 'https://www.facebook.com/emelizzz']
+  emmanuel_borao: [Emmanuel Borao, 'https://www.instagram.com/emmanuelborao/']
+  marcos_arévalo: [Marcos Arévalo, 'https://www.instagram.com/marco_estudio_foto/']

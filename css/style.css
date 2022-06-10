@@ -130,6 +130,10 @@ code {
 
 .center {
     text-align: center;
+
+}
+.center-force * {
+    text-align: center;
 }
 .left {
     text-align: left;
@@ -141,21 +145,7 @@ code {
     align-items: center;
 }
 
-.cita-portada {
-    font-size: 1.5em;
-    font-weight: 300;
-    text-align: center;
-    padding: 30px 60px 80px 60px;
-    line-height: 1.4em;
-    color: #888;
-}
-.cita-portada * {
-    margin: auto;
-    color: inherit;
-}
-.cita-portada strong {
-    font-weight: 600;
-}
+
 .no_padding_top_first_h2 h2:first-child {
     padding-top: 0!important;
 }
@@ -677,6 +667,25 @@ select#page_lang {
 }
 #gallery_panel nav button[name=close]:before {
     content: 'x';
+}
+
+#gallery_panel .ph {
+    opacity: .8;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+#gallery_panel .image p {
+    color: #444;
+}
+#gallery_panel .image p span {
+    color: #555;
+}
+#gallery_panel .image p a {
+    color: #333;
+}
+#gallery_panel .image p a:hover {
+    color: #111;
 }
 
 

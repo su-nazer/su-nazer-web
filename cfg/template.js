@@ -59,7 +59,16 @@ Template.gallery_panel = `
       <button name="close"></button>
     </nav>
     <div class="image" data-index="[[= i ]]">
-      <p>[[= d.images[i]['tex-'+G.lang] || '' ]]</p>
+      <p>
+      [[= d.images[i]['tex-'+G.lang] || '' ]]
+      [[ if( d.images[i]['ph'] !== undefined ){ ]]
+      <span class="ph">Ph.
+        <a href="[[= G.cfg.creditos[ d.images[i]['ph'] ][1] ]]" target="_blank">
+        [[= G.cfg.creditos[ d.images[i]['ph'] ][0] ]]
+        </a>
+      </span>
+      [[ } ]]
+      </p>
       <img src="[[= d.images[i].img ]]">
     </div>
   </div>
