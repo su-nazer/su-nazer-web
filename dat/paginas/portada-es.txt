@@ -4,15 +4,15 @@ title: Portada
 ---
 
 [[= html_slide([
-    ['./img/paginas/portada/1.jpg', 4],
-    ['./img/paginas/portada/2.jpg', 4],
-    ['./img/paginas/portada/3.jpg', 4],
-    ['./img/paginas/portada/4.jpg', 4],
-    ['./img/paginas/portada/5.jpg', 4],
-    ['./img/paginas/portada/6.jpg', 4],
-    ['./img/paginas/portada/7.jpg', 4],
-    ['./img/paginas/portada/8.jpg', 4],
-    ['./img/paginas/portada/9.jpg', 4],
+    ['./img/paginas/portada/p1.jpg', 4],
+    ['./img/paginas/portada/p2.jpg', 4],
+    ['./img/paginas/portada/p3.jpg', 4],
+    ['./img/paginas/portada/p4.jpg', 4],
+    ['./img/paginas/portada/p5.jpg', 4],
+    ['./img/paginas/portada/p6.jpg', 4],
+    ['./img/paginas/portada/p7.jpg', 4],
+    ['./img/paginas/portada/p8.jpg', 4],
+    ['./img/paginas/portada/p9.jpg', 4],
     ])
 ]]
 

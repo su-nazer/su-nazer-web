@@ -5,16 +5,16 @@ title: Contacto
 [[ page_title_add('Contacto') ]]
 
 [[= html_slide([
-    ['./img/paginas/contacto/1.jpg', 3],
-    ['./img/paginas/contacto/2.jpg', 3],
-    ['./img/paginas/contacto/3.jpg', 3],
-    ['./img/paginas/contacto/4.jpg', 3],
-    ['./img/paginas/contacto/5.jpg', 3],
-    ['./img/paginas/contacto/6.jpg', 3],
-    ['./img/paginas/contacto/7.jpg', 3],
-    ['./img/paginas/contacto/8.jpg', 3],
-    ['./img/paginas/contacto/9.jpg', 3],
-    ['./img/paginas/contacto/10.jpg', 3],
+    ['./img/paginas/contacto/c1.jpg', 3],
+    ['./img/paginas/contacto/c2.jpg', 3],
+    ['./img/paginas/contacto/c3.jpg', 3],
+    ['./img/paginas/contacto/c4.jpg', 3],
+    ['./img/paginas/contacto/c5.jpg', 3],
+    ['./img/paginas/contacto/c6.jpg', 3],
+    ['./img/paginas/contacto/c7.jpg', 3],
+    ['./img/paginas/contacto/c8.jpg', 3],
+    ['./img/paginas/contacto/c9.jpg', 3],
+    ['./img/paginas/contacto/c10.jpg', 3],
     ])
 ]]
 
