@@ -1,0 +1,43 @@
+---
+title: Contacto
+---
+
+[[ page_title_add('Contacto') ]]
+
+[[= html_slide([
+    ['./img/paginas/contacto/1.jpg', 3],
+    ['./img/paginas/contacto/2.jpg', 3],
+    ['./img/paginas/contacto/3.jpg', 3],
+    ['./img/paginas/contacto/4.jpg', 3],
+    ['./img/paginas/contacto/5.jpg', 3],
+    ['./img/paginas/contacto/6.jpg', 3],
+    ['./img/paginas/contacto/7.jpg', 3],
+    ['./img/paginas/contacto/8.jpg', 3],
+    ['./img/paginas/contacto/9.jpg', 3],
+    ['./img/paginas/contacto/10.jpg', 3],
+    ])
+]]
+
+<div class="info">
+
+<br>
+<div class="columns">
+
+
+<div class="text flex_col fc_1d2 center-force">
+
++ [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
+
+</div>
+
+<div class="text flex_col fc_1d2 center-force">
+
++ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
+
+</div>
+<br>
+
+
+</div>
+
+</div>

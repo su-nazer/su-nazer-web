@@ -1,0 +1,29 @@
+---
+title: Bio
+---
+
+[[ page_title_add('Bio') ]]
+
+<div class="info">
+
+<div class="columns">
+
+<div class="bio-img flex_col fc_1d3 mobile">
+
+![Su Nazer](./img/paginas/bio/su_nazer.jpg)
+
+</div>
+
+<div class="text">
+
+Nací y vivo en Junín, ciudad del noroeste de la Provincia de Buenos Aires, pampa húmeda. Un territorio maravillosamente fértil y a la vez golpeado por el uso extractivista de la tierra: el monocultivo y los negocios inmobiliarios.
+
+Mi obra es sensible a las narrativas de memoria, territorio y de cómo nos atraviesan colectivamente. Disfruto del cruce de recursos matéricos y transdisciplinares como así también de las producciones colaborativas.
+
+[Curriculum Vitae](#p:cv)
+
+</div>
+
+</div>
+
+</div>

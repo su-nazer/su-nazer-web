@@ -451,17 +451,23 @@ function events_list_group_generate(grp) {
 
 
 function html_slide( images ) {
-    let interval, slide, image, menu, btns,
+    let interval, slide, image, imback, menu, btns,
 	j, i = 0;
 
     const dat = { id: 'slide-' + Date.now(), images: images},
           ac = 'actual';
 
     const show_image = () => {
-	clearInterval(interval)
+	let p;
+	let no_cache = '?_=' + Date.now();
+	image.hide();
+	clearInterval(interval);
+	interval = false;
 	interval = setInterval( show_image, images[i][1] * 1000 );
 	setTimeout( () => {
-            image.attr( 'src', images[i][0] );
+            image.attr( 'src', images[i][0] + no_cache);
+	    p = i - 1 < 0 ? 0 : i - 1
+	    imback.attr('src', images[p][0] + no_cache);
 	    if ( interval ) {
 		i += 1;
 		if( i >= images.length ) i = 0;
@@ -472,6 +478,7 @@ function html_slide( images ) {
     const active = () => {
 	slide = $( `#${dat.id}` );
 	image = slide.find( '.image img.front' ).eq( 0 );
+	imback = slide.find( '.image img.back' ).eq( 0 );
 	interval = setInterval( show_image, images[i][1] * 1000 );
 	menu = slide.find( 'ul' ).eq( 0 );
 	for ( j in _.range( 0, images.length ) ) {
@@ -487,13 +494,17 @@ function html_slide( images ) {
 	    }
 	});
 	image.on({
-	    load: function(){
+	    ready: function(){
 		image.hide();
+	    },
+	    load: function(){
 		image.fadeIn( 1000 );
 		btns.removeClass( ac )
 		btns.eq( i - 1 ).addClass( ac );
 	    }
 	});
+	imback.show();
+	imback.css('opacity', 1);
 	show_image();
     };
 

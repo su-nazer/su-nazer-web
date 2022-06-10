@@ -1,0 +1,36 @@
+---
+title: Portada
+
+---
+
+[[= html_slide([
+    ['./img/paginas/portada/1.jpg', 4],
+    ['./img/paginas/portada/2.jpg', 4],
+    ['./img/paginas/portada/3.jpg', 4],
+    ['./img/paginas/portada/4.jpg', 4],
+    ['./img/paginas/portada/5.jpg', 4],
+    ['./img/paginas/portada/6.jpg', 4],
+    ['./img/paginas/portada/7.jpg', 4],
+    ['./img/paginas/portada/8.jpg', 4],
+    ['./img/paginas/portada/9.jpg', 4],
+    ])
+]]
+
+<br>
+
+<div class="info center">
+
+<big>
+
+Soy artista visual.
+
+</big>
+
+
+Realizo arte textil, joyería contemporánea, instalaciones.
+
+Tejo cruces transdisciplinares matéricos, perfomativos, poéticos y políticos.
+
+**Me intereso por el asimiento al territorio, la memoria y otros relatos posibles.**
+
+</div>
