@@ -4,18 +4,22 @@ title: Contacto
 
 [[ page_title_add('Contacto') ]]
 
-[[= html_slide([
-    ['./img/paginas/contacto/c1.jpg', 3],
-    ['./img/paginas/contacto/c2.jpg', 3],
-    ['./img/paginas/contacto/c3.jpg', 3],
-    ['./img/paginas/contacto/c4.jpg', 3],
-    ['./img/paginas/contacto/c5.jpg', 3],
-    ['./img/paginas/contacto/c6.jpg', 3],
-    ['./img/paginas/contacto/c7.jpg', 3],
-    ['./img/paginas/contacto/c8.jpg', 3],
-    ['./img/paginas/contacto/c9.jpg', 3],
-    ['./img/paginas/contacto/c10.jpg', 3],
-    ])
+[[= html_slide({
+      'ruta': './img/paginas/contacto/',
+      'images': [
+        ['c1.jpg', 3],
+        ['c2.jpg', 3],
+        ['c3.jpg', 3],
+        ['c4.jpg', 3],
+        ['c5.jpg', 3],
+        ['c6.jpg', 3],
+        ['c7.jpg', 3],
+        ['c8.jpg', 3],
+        ['c9.jpg', 3],
+        ['c10.jpg', 3],
+      ],
+      'mobile_prefix': 'mobile_'
+   })
 ]]
 
 <div class="info">

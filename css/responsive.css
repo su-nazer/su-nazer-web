@@ -10,21 +10,29 @@
         width: 90%;
     }
     .mobile {
-      width: 100%;
-      max-width: 100%;
-      flex-basis: 100%!important;
+	width: 100%;
+	max-width: 100%;
+	flex-basis: 100%!important;
     }
     .mobile img {
-      max-width: 100%!important;
-      width: 100%!important;
+	max-width: 100%!important;
+	width: 100%!important;
     }
     #content blockquote {
-      font-size: 1.2em;
+	font-size: 1.2em;
     }
     .manifiest {
-      font-size: 1.4em;
+	font-size: 1.4em;
     }
     .columns {
-      flex-flow: column;
+	flex-flow: column;
     }
+
+
+}
+@media (max-width:500px){
+    .menu-ensayos .btn-ep span {
+        word-break: break-all;
+    }
+
 }

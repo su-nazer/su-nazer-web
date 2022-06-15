@@ -6,23 +6,12 @@ title: "Ensayo Poético: La memoria"
 [[ page_title_add('Ensayo Poético: La memoria') ]]
 [[ menu_pages_set('#p:ensayos', 'actual') ]]
 
-<div class="info">
 
+<div class="info">
 <br>
 <div class="center">
 
 # La memoria
-
-</div>
-
-<div class="line-over grp-obra">
-
-[[= ensayo_poetico_generate('la_memoria-esferica') ]]
-
-</div>
-<div class="line-over grp-obra">
-
-[[= ensayo_poetico_generate('la_memoria-mariposas') ]]
 
 </div>
 <div class="line-over grp-obra">
@@ -32,8 +21,22 @@ title: "Ensayo Poético: La memoria"
 </div>
 <div class="line-over grp-obra">
 
+[[= ensayo_poetico_generate('la_memoria-esferica') ]]
+
+</div>
+<div class="line-over grp-obra">
+
 [[= ensayo_poetico_generate('la_memoria-yolanda') ]]
 
 </div>
+<div class="line-over grp-obra">
 
+[[= ensayo_poetico_generate('la_memoria-el_alarido_de_las_mariposas') ]]
+
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('la_memoria-vuelo_de_mariposas') ]]
+
+</div>
 </div>

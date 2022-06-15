@@ -14,7 +14,6 @@ title: "Ensayo Poético: El deseo y las sublevaciones"
 # El deseo y las sublevaciones
 
 </div>
-
 <div class="line-over grp-obra">
 
 [[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-erotismo') ]]
@@ -23,14 +22,6 @@ title: "Ensayo Poético: El deseo y las sublevaciones"
 [[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-erotismo-3', 'sub-1') ]]
 
 </div>
-
-<div class="line-over grp-obra">
-
-[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-gritos') ]]
-[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-sangre') ]]
-
-</div>
-
 <div class="line-over grp-obra">
 
 [[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-territorios') ]]
@@ -39,6 +30,14 @@ title: "Ensayo Poético: El deseo y las sublevaciones"
 [[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-territorios-3', 'sub-1') ]]
 
 </div>
+<div class="line-over grp-obra">
 
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-sangre') ]]
 
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-gritos') ]]
+
+</div>
 </div>

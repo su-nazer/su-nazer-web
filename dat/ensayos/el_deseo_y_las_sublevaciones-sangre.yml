@@ -14,16 +14,16 @@ images:
     img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/01.jpg
     tex-es: ''
   -
-    img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/02.jpg
-    tex-es: ''
-  -
     img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/03.jpg
     tex-es: ''
   -
-    img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/04.jpg
+    img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/02.jpg
     tex-es: ''
   -
     img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/05.jpg
+    tex-es: ''
+  -
+    img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/04.jpg
     tex-es: ''
   -
     img: ./img/ensayos/el_deseo_y_las_sublevaciones/sangre/06.jpg

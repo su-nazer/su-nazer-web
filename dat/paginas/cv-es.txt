@@ -7,11 +7,8 @@ title: Curriculum Vitae
 [[ menu_pages_set('#p:bio', 'actual') ]]
 
 <div class="info">
-
 <div class="columns">
-
 <div class="list_cv flex_col fc_1d3 left">
-
 <br>
 
 + **Susana Beatriz Nazer**
@@ -23,12 +20,13 @@ title: Curriculum Vitae
   [ [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
 
 
-[<< Bio](#p:bio)
+<div class="list_item">
+
+[« Bio](#p:bio)
 
 </div>
-
+</div>
 <div class="list_cv flex_col fc_2d3 no_padding_top_first_h2">
-
 
 ## PARTICIPACIONES RECIENTES
 

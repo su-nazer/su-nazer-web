@@ -4,7 +4,6 @@
     General Functions
 */
 
-
 function no_cache() {
     return NO_CACHE ? '?nc='+parseInt(Math.random()*1000000) : '';
 }
@@ -450,24 +449,37 @@ function events_list_group_generate(grp) {
 }
 
 
-function html_slide( images ) {
+function html_slide( data ) {
     let interval, slide, image, imback, menu, btns,
 	j, i = 0;
 
-    const dat = { id: 'slide-' + Date.now(), images: images},
-          ac = 'actual';
+    let images = data['images'];
+
+    const ac = 'actual',
+	  dat = {
+	      id: 'slide-' + Date.now(),
+	      images: images,
+	      ruta: data['ruta'],
+	      mb: is_mobile() ? data['mobile_prefix'] : ''
+	  };
+
+    const filename = (name) => {
+	let mb = is_mobile() ? data['mobile_prefix'] : '';
+	return `${data['ruta']}${mb}${name}`;
+    };
+    const no_cache = () => {
+	return '?_=' + Date.now();
+    };
 
     const show_image = () => {
-	let p;
-	let no_cache = '?_=' + Date.now();
-	image.hide();
+ 	image.hide();
 	clearInterval(interval);
 	interval = false;
 	interval = setInterval( show_image, images[i][1] * 1000 );
 	setTimeout( () => {
-            image.attr( 'src', images[i][0] + no_cache);
-	    p = i - 1 < 0 ? 0 : i - 1
-	    imback.attr('src', images[p][0] + no_cache);
+	    let p = i - 1 < 0 ? 0 : i - 1;
+	    imback.attr('src', filename(images[p][0]) + no_cache());
+	    image.attr( 'src', filename(images[i][0]) + no_cache());
 	    if ( interval ) {
 		i += 1;
 		if( i >= images.length ) i = 0;
@@ -496,10 +508,11 @@ function html_slide( images ) {
 	image.on({
 	    ready: function(){
 		image.hide();
+		imback.show();
 	    },
 	    load: function(){
 		image.fadeIn( 1000 );
-		btns.removeClass( ac )
+		btns.removeClass( ac );
 		btns.eq( i - 1 ).addClass( ac );
 	    }
 	});
@@ -521,4 +534,8 @@ function page_title_add(tex_nue){
 	tex_ori = title.text();
 
     title.html(`${tex_ori} - ${tex_nue}`);
+}
+
+function page_set_style(tex){
+    $('body').addClass(tex);
 }

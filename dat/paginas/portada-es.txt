@@ -3,17 +3,21 @@ title: Portada
 
 ---
 
-[[= html_slide([
-    ['./img/paginas/portada/p1.jpg', 4],
-    ['./img/paginas/portada/p2.jpg', 4],
-    ['./img/paginas/portada/p3.jpg', 4],
-    ['./img/paginas/portada/p4.jpg', 4],
-    ['./img/paginas/portada/p5.jpg', 4],
-    ['./img/paginas/portada/p6.jpg', 4],
-    ['./img/paginas/portada/p7.jpg', 4],
-    ['./img/paginas/portada/p8.jpg', 4],
-    ['./img/paginas/portada/p9.jpg', 4],
-    ])
+[[= html_slide({
+      'ruta': './img/paginas/portada/',
+      'images': [
+        ['p1.jpg', 4],
+        ['p2.jpg', 4],
+        ['p3.jpg', 4],
+        ['p4.jpg', 4],
+        ['p5.jpg', 4],
+        ['p6.jpg', 4],
+        ['p7.jpg', 4],
+        ['p8.jpg', 4],
+        ['p9.jpg', 4],
+      ],
+      'mobile_prefix': ''
+   })
 ]]
 
 <br>

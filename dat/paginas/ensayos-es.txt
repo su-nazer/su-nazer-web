@@ -4,6 +4,7 @@ title: Ensayos Poéticos
 ---
 
 [[ page_title_add('Ensayos Poéticos') ]]
+[[ page_set_style('content_dark') ]]
 
 <div class="info">
 

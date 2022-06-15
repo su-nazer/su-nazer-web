@@ -59,8 +59,8 @@ Template.gallery_panel = `
       <button name="close"></button>
     </nav>
     <div class="image" data-index="[[= i ]]">
-      <p>
-      [[= d.images[i]['tex-'+G.lang] || '' ]]
+      <div>
+      [[= marked(d.images[i]['tex-'+G.lang] || '') ]]
       [[ if( d.images[i]['ph'] !== undefined ){ ]]
       <span class="ph">Ph.
         <a href="[[= G.cfg.creditos[ d.images[i]['ph'] ][1] ]]" target="_blank">
@@ -68,7 +68,7 @@ Template.gallery_panel = `
         </a>
       </span>
       [[ } ]]
-      </p>
+      </div>
       <img src="[[= d.images[i].img ]]">
     </div>
   </div>
@@ -129,7 +129,7 @@ Template.events_panel = `
 Template.html_slide = `
 <div id="[[= id ]]" class="slide">
   <div class="image">
-    <img class="back" src="[[= images[0][0] ]]">
+    <img class="back" src="[[= ruta ]][[= mb ]][[= images[0][0] ]]">
     <img class="front" src="./img/empty.svg">
   </div>
   <ul></ul>
