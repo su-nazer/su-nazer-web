@@ -27,7 +27,6 @@ title: Contacto
 <br>
 <div class="columns">
 
-
 <div class="text flex_col fc_1d2 center-force">
 
 + [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
@@ -39,9 +38,19 @@ title: Contacto
 + [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
 
 </div>
-<br>
 
+
+<br>
 
 </div>
 
+</div>
+
+<div style="opacity:0.8" class="center-force">
+<hr>
+<small>
+
+Desarrollo web [NODOS.diseño](mailto:nodos.dsnn@gmail.com)
+
+</small>
 </div>
