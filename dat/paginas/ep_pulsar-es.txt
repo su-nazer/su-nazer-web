@@ -1,0 +1,50 @@
+---
+title: "Ensayo Poético: Pulsar"
+
+---
+
+[[ page_title_add('Ensayo Poético: Pulsar') ]]
+[[ menu_pages_set('#p:ensayos', 'actual') ]]
+
+<div class="info">
+
+<br>
+<div class="center">
+
+# Pulsar
+
+> Aprehender al Río como un cuerpo que también es el nuestro, extensión rizomática vital.
+
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('pulsar-noche') ]]
+
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('pulsar-extraniamiento_de_ave') ]]
+[[= ensayo_poetico_generate('pulsar-extraniamiento_de_ave-1') ]]
+[[= ensayo_poetico_generate('pulsar-extraniamiento_de_ave-2') ]]
+[[= ensayo_poetico_generate('pulsar-extraniamiento_de_ave-3') ]]
+
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('pulsar-sudario_de_rio') ]]
+
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('pulsar-de_espaldas_al_rio') ]]
+[[= ensayo_poetico_generate('pulsar-de_espaldas_al_rio-1') ]]
+[[= ensayo_poetico_generate('pulsar-de_espaldas_al_rio-2') ]]
+
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('pulsar-agonia') ]]
+
+</div>
+
+</div>

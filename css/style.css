@@ -387,6 +387,12 @@ select#page_lang {
     padding-top: 2em;
     font-weight: 300;
 }
+#content h2 .tit-extra {
+    font-size: 1em;
+    display: block;
+    font-weight: 300;
+    color: inherit;
+}
 #content h3 {
     padding-top: 1.6em;
     font-weight: 300;

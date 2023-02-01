@@ -16,6 +16,16 @@ title: "Ensayo Poético: La memoria"
 </div>
 <div class="line-over grp-obra">
 
+[[= ensayo_poetico_generate('la_memoria-hundidas_en_la_niebla') ]]
+
+</div>
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('la_memoria-el_lado_de_atras') ]]
+
+</div>
+<div class="line-over grp-obra">
+
 [[= ensayo_poetico_generate('la_memoria-pujando') ]]
 
 </div>

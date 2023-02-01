@@ -13,7 +13,7 @@ title: Ensayos Poéticos
 [[= boton_ep_generate('El deseo y las sublevaciones', './img/ensayos/ep_el_deseo_y_las_sublevaciones.jpg', '#p:ep_el_deseo_y_las_sublevaciones') ]]
 [[= boton_ep_generate('La memoria', './img/ensayos/ep_la_memoria.jpg', '#p:ep_la_memoria') ]]
 [[= boton_ep_generate('Lo artificioso', './img/ensayos/ep_lo_artificioso.jpg', '#p:ep_lo_artificioso') ]]
-[[= boton_ep_generate('Desmarcadas', './img/ensayos/ep_desmarcadas.jpg', '#p:ep_desmarcadas') ]]
+[[= boton_ep_generate('Pulsar', './img/ensayos/ep_pulsar.jpg', '#p:ep_pulsar') ]]
 
 </div>
 
