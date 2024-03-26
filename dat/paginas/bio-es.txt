@@ -8,7 +8,7 @@ title: Bio
 <div class="columns">
 <div class="bio-img flex_col fc_1d3 mobile">
 
-![Su Nazer](./img/paginas/bio/su_nazer.jpg)
+![Susana Nazer](./img/paginas/bio/su_nazer.jpg)
 
 </div>
 <div class="text">

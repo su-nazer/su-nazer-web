@@ -638,9 +638,9 @@ select#page_lang {
     overflow: hidden;
 }
 #gallery_panel .cnt p {
-    background: #666;
-    padding: 3px auto;
-    color: #666;
+    margin: 0;
+    padding: 3px 6px;
+    color: #333;
 }
 #gallery_panel nav {
     background: #bbb;
@@ -696,6 +696,7 @@ select#page_lang {
 
 #gallery_panel .ph {
     opacity: .8;
+    font-size: 0.9em;
     margin: 0 10px;
     display: inline-block;
     color: #888;
@@ -708,6 +709,10 @@ select#page_lang {
 #gallery_panel .image div span {
     color: #555;
 }
+#gallery_panel .image div span {
+    color: #555;
+}
+
 #gallery_panel .image div a {
     color: #333;
 }
