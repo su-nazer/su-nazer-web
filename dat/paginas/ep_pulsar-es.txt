@@ -18,19 +18,19 @@ title: "Ensayo Poético: Pulsar"
 </div>
 <div class="line-over grp-obra">
 
+[[= ensayo_poetico_generate('pulsar-pulsar_el_rio_3') ]]
+
+</div>
+<div class="line-over grp-obra">
+
 [[= ensayo_poetico_generate('pulsar-pulsar_el_rio_2') ]]
 
 </div>
 <div class="line-over grp-obra">
 
-[[= ensayo_poetico_generate('pulsar-pulsar_el_rio_1') ]]
-
-</div>
-<div class="line-over grp-obra">
-
-[[= ensayo_poetico_generate('pulsar-de_espaldas_al_rio') ]]
-[[= ensayo_poetico_generate('pulsar-de_espaldas_al_rio-1') ]]
-[[= ensayo_poetico_generate('pulsar-de_espaldas_al_rio-2') ]]
+[[= ensayo_poetico_generate('pulsar-pulsar_el_rio_1-a') ]]
+[[= ensayo_poetico_generate('pulsar-pulsar_el_rio_1-b') ]]
+[[= ensayo_poetico_generate('pulsar-pulsar_el_rio_1-c') ]]
 
 </div>
 <div class="line-over grp-obra">

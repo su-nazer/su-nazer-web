@@ -6,13 +6,6 @@ title-es: Atravesades
 description-es: |
   > 2023
 
-  Broche-Prendedor a la memoria de Claudia Pía Baudraco, pieza seleccionada por Joyeros Argentinos para la muestra Un camino infinito, 40 años de democracia.
-
-  - 07/12/23 hasta el 08/03/24- Museo de arte y memoria (La Plata)
-  - 04 al 25/11/23 - Museo Histórico de Ituzaingó (BsAs)
-  - 02/09 al 29/10/23 - Museo Histórico Sarmiento (CABA)
-  - Permanente en exposición virtual- Plataforma de @JoyerosArgentinos.
-
   _Serie de cinco prendedores que sostienen memoria y futuro.\
   Bronce, alpaca y textil._
 
@@ -23,10 +16,17 @@ description-es: |
   Nada hubiera sido sin la lucha transfeminista.
 
 
+
 images:
   -
     img: /img/ensayos/el_deseo_y_las_sublevaciones/atravesades/1.jpg
-    tex-es: 'Claudia Pía Baudracco'
+    tex-es: |
+      Broche-Prendedor a la memoria de Claudia Pía Baudraco, pieza seleccionada por Joyeros Argentinos para la muestra Un camino infinito, 40 años de democracia.
+
+      - 07/12/23 hasta el 08/03/24- Museo de arte y memoria (La Plata)
+      - 04 al 25/11/23 - Museo Histórico de Ituzaingó (BsAs)
+      - 02/09 al 29/10/23 - Museo Histórico Sarmiento (CABA)
+      - Permanente en exposición virtual- Plataforma de @JoyerosArgentinos.
     ph: emmanuel_borao
 
   -
@@ -46,5 +46,5 @@ images:
 
   -
     img: /img/ensayos/el_deseo_y_las_sublevaciones/atravesades/5.jpg
-    tex-es: 'Rusia Suarez -del archivo trans de Junín- Broche y fanzine'
+    tex-es: 'Rusia Suarez -del archivo trans de Junín- Broche y fanzine.'
     ph: emmanuel_borao
