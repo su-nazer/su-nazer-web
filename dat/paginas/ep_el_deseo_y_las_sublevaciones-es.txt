@@ -14,6 +14,19 @@ title: "Ensayo Poético: El deseo y las sublevaciones"
 # El deseo y las sublevaciones
 
 </div>
+
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-auna') ]]
+
+</div>
+
+<div class="line-over grp-obra">
+
+[[= ensayo_poetico_generate('el_deseo_y_las_sublevaciones-un_aprendizaje_infinito') ]]
+
+</div>
+
 <!--
 <div class="line-over grp-obra">
 
